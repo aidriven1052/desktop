@@ -1,0 +1,31 @@
+{
+  "name": "삼성 갤럭시 버즈2 프로",
+  "price": 229000,
+  "brand": "삼성전자",
+  "category": "무선 이어폰",
+  "rating": 4.5,
+  "description": "뛰어난 노이즈 캔슬링 기능을 갖춘 프리미엄 무선 이어폰",
+  "images": [
+    "https://images.samsung.com/kdp/goods/2022/08/10/buds2pro_image1.jpg",
+    "https://images.samsung.com/kdp/goods/2022/08/10/buds2pro_image2.jpg",
+    "https://images.samsung.com/kdp/goods/2022/08/10/buds2pro_image3.jpg"
+  ],
+  "features": [
+    "지능형 ANC (Active Noise Cancellation)",
+    "최대 29시간 재생 (케이스 포함)",
+    "360도 오디오 지원",
+    "IPX7 방수 등급",
+    "고해상도 코덱 지원"
+  ],
+  "pros": [
+    "탁월한 음질과 노이즈 캔슬링",
+    "편안한 착용감",
+    "긴 배터리 수명",
+    "프리미엄 디자인"
+  ],
+  "cons": [
+    "가격이 다소 높은 편",
+    "케이스가 약간 큰 편",
+    "일부 안드로이드 기기에서만 전체 기능 사용 가능"
+  ]
+}

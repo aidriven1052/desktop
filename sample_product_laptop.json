@@ -1,0 +1,36 @@
+{
+  "name": "LG 그램 17인치 노트북",
+  "price": 2390000,
+  "brand": "LG전자",
+  "category": "노트북",
+  "rating": 4.8,
+  "description": "초경량 대화면 노트북으로 휴대성과 생산성을 동시에!",
+  "images": [
+    "https://www.lge.co.kr/lg5-common-gp/images/product/laptop-gram.jpg",
+    "https://www.lge.co.kr/lg5-common-gp/images/product/laptop-gram-2.jpg",
+    "https://www.lge.co.kr/lg5-common-gp/images/product/laptop-gram-3.jpg",
+    "https://www.lge.co.kr/lg5-common-gp/images/product/laptop-gram-4.jpg"
+  ],
+  "features": [
+    "17인치 대화면 WQXGA (2560x1600) 디스플레이",
+    "무게 1.35kg 초경량",
+    "인텔 13세대 Core i7 프로세서",
+    "32GB LPDDR5 RAM",
+    "1TB NVMe SSD",
+    "80Wh 대용량 배터리 (최대 20시간 사용)",
+    "Thunderbolt 4 포트 2개",
+    "MIL-STD-810H 군용 내구성 테스트 통과"
+  ],
+  "pros": [
+    "17인치 대화면임에도 불구하고 믿을 수 없을 정도로 가벼움",
+    "뛰어난 배터리 수명으로 하루 종일 사용 가능",
+    "높은 성능과 넉넉한 메모리",
+    "견고한 내구성",
+    "아름다운 고해상도 디스플레이"
+  ],
+  "cons": [
+    "높은 가격대",
+    "게이밍에는 적합하지 않음 (내장 그래픽)",
+    "스피커 성능이 아쉬움"
+  ]
+}
