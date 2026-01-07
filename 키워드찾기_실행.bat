@@ -25,6 +25,6 @@ echo.
 echo ⚠️ 종료하려면 Ctrl+C를 누르세요
 echo.
 
-streamlit run keyword_finder_improved.py
+python -m streamlit run keyword_finder_improved.py
 
 pause
